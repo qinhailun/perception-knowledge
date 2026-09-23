@@ -1,0 +1,13 @@
+*.pyc
+*.swp
+*.ipynb_checkpoints
+*.log
+*.vscode
+*.egg-info
+**build
+**dist
+output/*
+custom_configs/*
+.docker_deps/
+.codebase-memory/
+.history/
